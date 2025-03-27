@@ -73,11 +73,11 @@ For Streamlit apps, you can download the code and run locally using the followin
 pip install -r requirements.txt
 streamlit run app.py
 
-❤️#  Contributing
+# Contributing ❤️
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📩 # Contact
+# Contact 📩
 For queries and feedback, reach out via GitHub https://github.com/SyedaNabila559/
 
 🌟 Made with dedication as part of the GIAIC AI course.
